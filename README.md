@@ -99,3 +99,11 @@ python main.py
 本项目基于 [MIT License](https://www.google.com/search?q=LICENSE) 开源。欢迎提交 Issue 或 Pull Request 共同完善这个视觉项目！
 
 ---
+
+Gemini 3.5flash提示词：
+1.我该如何写一个矫正fov160°的摄像头即便的python代码
+2.为什么一点要拍棋盘格矫正，有其他方法吗
+3.帮我把代码改成自标定法（Self-Calibration / 运动复原）
+4.添加个功能，能选取插在usb上的摄像头
+5.帮我用pyqt写一个交互界面
+end
